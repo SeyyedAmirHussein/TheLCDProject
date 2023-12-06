@@ -1,8 +1,8 @@
 // The LCD Project .
 
-// The Main Code OF The LCD Project . .C
-
 // In this program, We want to Show a Text on The LCD Screen .
+
+// The Main Code OF The LCD Project . .INO .
 
 
 
